@@ -17,8 +17,8 @@ Tech Stack:
 - Language: JavaScript 
 
 Project Structure:
-/app/components: React components (CounterCard, MyCard, NewSongForm, QueueTable)
-/app/components/*.module.css: Component-specific styles
-/app/page.js: Main entrypoint for the frontend
-/utils/FirebaseInit.js: Firebase config if used
-/server/index.js: Express backend (runs on localhost:8080)
+- /app/components: React components (CounterCard, MyCard, NewSongForm, QueueTable)
+- /app/components/*.module.css: Component-specific styles
+- /app/page.js: Main entrypoint for the frontend
+- /utils/FirebaseInit.js: Firebase config if used
+- /index.js: Express backend (runs on localhost:8080)
