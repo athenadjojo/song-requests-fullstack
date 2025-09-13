@@ -1,6 +1,7 @@
 # song-requests-fullstack
 
 **Song Request Booth**
+
 A simple Next.js + Express webapp where users can submit their favorite songs to a queue and track how many songs have been added. Built as a practice project for learning React, Next.js, and Express.
 
 Features:
